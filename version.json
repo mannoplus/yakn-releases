@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/mannoplus/yakn-releases/releases/latest/download/yakn-release.apk",
-  "releaseNotes": "Added Settings screen, localization, 80-country regions, header symmetry, and 5-screen UI refinements.",
+  "releaseNotes": "Fixed onboarding persistence across restarts, redesigned onboarding animations, and connected preferences to recommendations.",
   "mandatory": false,
-  "sha256": "a28d6ef40f978521cb74e8c263a2101109a740f850c333d2be2f5e5c00a186b6",
+  "sha256": "91da93fe63b87e3f928fc6e88b8918876c5453621d22a8036fc963eef042a0c3",
   "publishedAt": "2026-11-19"
 }
