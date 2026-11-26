@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.1.0",
   "apkUrl": "https://github.com/mannoplus/yakn-releases/releases/latest/download/yakn-release.apk",
-  "releaseNotes": "Fixed onboarding persistence across restarts, redesigned onboarding animations, and connected preferences to recommendations.",
+  "releaseNotes": "New Listening Hub with daily goals, XP, streaks, Streak Freeze & 8-week heatmap; smart dynamic curation with 8s Trending carousel, Global + Taiwan Spotlight & Sports section; 100% cover artwork healing; Hugging Face on-device AI models.",
   "mandatory": false,
-  "sha256": "91da93fe63b87e3f928fc6e88b8918876c5453621d22a8036fc963eef042a0c3",
-  "publishedAt": "2026-11-19"
+  "sha256": "ba3ec5905ea98fa851f1173d8a6ae520a359dde5cbd80401f3b977399f27827f",
+  "publishedAt": "2026-11-26"
 }
