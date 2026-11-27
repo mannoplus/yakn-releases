@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.0",
+  "versionCode": 5,
+  "versionName": "1.1.1",
   "apkUrl": "https://github.com/mannoplus/yakn-releases/releases/latest/download/yakn-release.apk",
-  "releaseNotes": "New Listening Hub with daily goals, XP, streaks, Streak Freeze & 8-week heatmap; smart dynamic curation with 8s Trending carousel, Global + Taiwan Spotlight & Sports section; 100% cover artwork healing; Hugging Face on-device AI models.",
+  "releaseNotes": "Single-row episode filter strip, redesigned Content Preferences & Show Settings bottom sheet, dynamic curation, auto-collapsing recent searches, instant show detail caching, and Share/relaunch crash fixes.",
   "mandatory": false,
-  "sha256": "ba3ec5905ea98fa851f1173d8a6ae520a359dde5cbd80401f3b977399f27827f",
-  "publishedAt": "2026-11-26"
+  "sha256": "7123849a6648723bd0eb836504b65d51aeb5e5ec73dcbab265f51fe9e4c7e46b",
+  "publishedAt": "2026-11-27"
 }
